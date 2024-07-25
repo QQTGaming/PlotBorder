@@ -1,4 +1,4 @@
-name: PlotBorder
+name: PlotBorderQQT
 version: ${project.version}
 main: de.nononitas.plotborder.PlotBorder
 author: Nononitas
